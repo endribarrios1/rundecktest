@@ -13,7 +13,7 @@
     <group>test\folder</group>
     <id>387b3e9d-7598-42a0-911c-a2178c670a74</id>
     <loglevel>INFO</loglevel>
-    <name>test\</name>
+    <name>test</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <nodefilters>
       <filter></filter>
