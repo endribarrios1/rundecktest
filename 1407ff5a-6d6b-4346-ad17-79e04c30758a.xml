@@ -29,6 +29,9 @@
           <uuid>a29803ee-2918-40d0-b40b-ce0d1dc52cfa</uuid>
         </jobref>
       </command>
+      <command>
+        <exec>echo "hello world"</exec>
+      </command>
     </sequence>
     <uuid>1407ff5a-6d6b-4346-ad17-79e04c30758a</uuid>
   </job>
