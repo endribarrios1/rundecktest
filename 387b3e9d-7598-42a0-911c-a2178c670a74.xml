@@ -10,6 +10,7 @@
       <threadcount>1</threadcount>
     </dispatch>
     <executionEnabled>true</executionEnabled>
+    <group>test\folder</group>
     <id>387b3e9d-7598-42a0-911c-a2178c670a74</id>
     <loglevel>INFO</loglevel>
     <name>test\</name>
