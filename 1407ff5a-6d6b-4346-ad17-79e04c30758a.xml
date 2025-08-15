@@ -1,0 +1,35 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <dispatch>
+      <excludePrecedence>true</excludePrecedence>
+      <keepgoing>false</keepgoing>
+      <rankOrder>ascending</rankOrder>
+      <successOnEmptyNodeFilter>false</successOnEmptyNodeFilter>
+      <threadcount>1</threadcount>
+    </dispatch>
+    <executionEnabled>true</executionEnabled>
+    <group>test\folder</group>
+    <id>1407ff5a-6d6b-4346-ad17-79e04c30758a</id>
+    <loglevel>INFO</loglevel>
+    <name>Job reference</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <nodefilters>
+      <filter>name: node2 </filter>
+    </nodefilters>
+    <nodesSelectedByDefault>true</nodesSelectedByDefault>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <jobref name='Source Job' nodeStep='true' project='sourceproject'>
+          <childNodes>true</childNodes>
+          <uuid>a29803ee-2918-40d0-b40b-ce0d1dc52cfa</uuid>
+        </jobref>
+      </command>
+    </sequence>
+    <uuid>1407ff5a-6d6b-4346-ad17-79e04c30758a</uuid>
+  </job>
+</joblist>
