@@ -3,6 +3,7 @@
     <defaultTab>nodes</defaultTab>
     <description></description>
     <executionEnabled>true</executionEnabled>
+    <group>test\folder</group>
     <id>fbb51482-83b4-4ad8-92db-fe6b3b3e28db</id>
     <loglevel>INFO</loglevel>
     <name>child_job</name>
