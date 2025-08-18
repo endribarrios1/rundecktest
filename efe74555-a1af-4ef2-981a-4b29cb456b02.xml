@@ -1,0 +1,21 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <group>test\folder</group>
+    <id>efe74555-a1af-4ef2-981a-4b29cb456b02</id>
+    <loglevel>INFO</loglevel>
+    <name>testjob</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>echo "hello world"</exec>
+      </command>
+    </sequence>
+    <uuid>efe74555-a1af-4ef2-981a-4b29cb456b02</uuid>
+  </job>
+</joblist>
