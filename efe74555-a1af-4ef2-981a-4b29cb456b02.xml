@@ -1,7 +1,7 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description></description>
+    <description>Test job </description>
     <executionEnabled>true</executionEnabled>
     <group>test\folder</group>
     <id>efe74555-a1af-4ef2-981a-4b29cb456b02</id>
