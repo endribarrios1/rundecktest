@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>fbb51482-83b4-4ad8-92db-fe6b3b3e28db</id>
+    <loglevel>INFO</loglevel>
+    <name>child_job</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>echo "hello world"</exec>
+      </command>
+    </sequence>
+    <uuid>fbb51482-83b4-4ad8-92db-fe6b3b3e28db</uuid>
+  </job>
+</joblist>
