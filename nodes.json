@@ -1,6 +1,6 @@
 {
   "madmartigan.local": {
-    "tags": "local,server",
+    "tags": ["local,server"],
     "osFamily": "unix",
     "username": "endri",
     "osVersion": "10.10.3",
@@ -11,7 +11,7 @@
     "osName": "Mac OS X"
   },
   "test": {
-    "tags": "alphabet,soup",
+    "tags": ["alphabet,soup"],
     "osFamily": "unix",
     "username": "endri",
     "osVersion": "10.10.3",
