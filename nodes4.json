@@ -1,0 +1,12 @@
+{
+  "rtr-agg-0004": {
+    "nodename": "rtr-agg-0004",
+    "hostname": "rtr-agg-0004",
+    "tags": "other"
+  },
+  "rtr-agg-0007": {
+    "nodename": "rtr-agg-0007",
+    "hostname": "rtr-agg-0007",
+    "tags": "something"
+  }
+}
