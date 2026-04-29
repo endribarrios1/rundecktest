@@ -11,7 +11,7 @@
     "osName": "Mac OS X"
   },
   "test": {
-    "tags": "alphabet, soup",
+    "tags": "alphabet,soup",
     "osFamily": "unix",
     "ssh-key-storage-path": "keys/testkey1.pem",
     "username": "vagrant",
