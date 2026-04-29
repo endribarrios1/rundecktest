@@ -2,8 +2,8 @@
   "rtr-agg-0004": {
     "nodename": "rtr-agg-0004",
     "hostname": "rtr-agg-0004",
-    "username": "endri",
+    "tags": ["mystical,other"],
     "osFamily": "unix",
-    "tags": "mystical,other"
+    "username": "endri"
   }
 }
