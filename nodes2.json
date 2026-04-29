@@ -1,0 +1,14 @@
+{
+  "rtr-agg-0004": {
+    "nodename": "rtr-agg-0004",
+    "hostname": "rtr-agg-0004",
+    "currentenv": "dev",
+    "tags": ["other"]
+  },
+  "rtr-agg-0007": {
+    "nodename": "rtr-agg-0007",
+    "hostname": "rtr-agg-0007",
+    "currentenv": "test",
+    "tags": ["something"]
+  }
+}
