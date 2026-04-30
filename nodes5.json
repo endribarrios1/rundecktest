@@ -4,13 +4,13 @@
     "hostname": "rtr-agg-0004",
     "username": "endri",
     "osFamily": "unix",
-    "tags": ["other"]
+    "tags": ["other, test"]
   },
   "rtr-agg-0007": {
     "nodename": "rtr-agg-0007",
     "hostname": "rtr-agg-0007",
     "username": "endri",
     "osFamily": "unix",
-    "tags": ["something"]
+    "tags": ["something, magical"]
   }
 }
