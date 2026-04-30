@@ -1,0 +1,22 @@
+[
+  {
+    "nodename": "rtr-agg-0004",
+    "hostname": "rtr-agg-0004",
+    "username": "nobody",
+    "osFamily": "Aruba",
+    "tags": ["other"],
+    "attributes": {
+      "currentenv": "dev"
+    }
+  },
+  {
+    "nodename": "rtr-agg-0007",
+    "hostname": "rtr-agg-0007",
+    "username": "nobody",
+    "osFamily": "Aruba",
+    "tags": ["something"],
+    "attributes": {
+      "currentenv": "test"
+    }
+  }
+]
