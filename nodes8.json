@@ -12,7 +12,7 @@
       "description": "Rundeck server node",
       "currentenv": "test"
     }
-  }  
+  }, 
 {
   "madmartigan.local": {
     "tags": ["local", "server"],
